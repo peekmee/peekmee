@@ -1,9 +1,3 @@
-
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/733796598139715607/998466224423977021/peekmee_logo.png" width="150px"/>
-
-</div>
-
 ## PEEK MEE
 #### We make games!
 
